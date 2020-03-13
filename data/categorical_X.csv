@@ -43,10 +43,8 @@
 41,SaleType
 42,SaleCondition
 43,MSSubClass
-44,OverallQual
-45,OverallCond
-46,YearBuilt
-47,YearRemodAdd
-48,GarageYrBlt
-49,MoSold
-50,YrSold
+44,YearBuilt
+45,YearRemodAdd
+46,GarageYrBlt
+47,MoSold
+48,YrSold

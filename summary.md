@@ -1,10 +1,10 @@
 ## Takeaways
 1) It is hard to incorporate more specific data preprocessing steps (i.e. discretization, impute specific values...) all in a single pipeline line without writing custom transformers based on dataframe operations
 2) Developed a methodology to deal with lots of features:
-  - create new features
-  - specify the features to delete
-  - specify the numeric features that should belong to categorical features
-  - prepare for numeric and categorical columns names and store them into csv files
+> - create new features
+> - specify the features to delete
+> - specify the numeric features that should belong to categorical features
+> - prepare for numeric and categorical columns names and store them into csv files
 3) Can use MSLE for regression when looking for relative error metrics and to punish underestimation more
 4) Randomozed search cv: use reciporal[min, max] for positive float, uniform[mean, width] for floats bounded by 0 and 1, randint[min, max] for integers
 5) Make sure ensembles are diverse (check model correlations, should choose uncorrelated models for ensemble)

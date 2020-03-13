@@ -21,3 +21,5 @@
 9) Use GitPython to commit and push
 10) Use Datatable instead of pandas
 11) Do feature selection manually instead of selectKbest (easier to include all preprocessing steps in one pipe)
+12) Use os path or path lib to handle windows and mac path (make sure don't need to change path on different machines)
+13) Use cookie cutter data science

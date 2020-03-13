@@ -1,7 +1,7 @@
 ## Takeaways
 1) It is hard to incorporate more specific data preprocessing steps (i.e. discretization, impute specific values...) all in a single pipeline line without writing custom transformers based on dataframe operations
 2) Developed a methodology to deal with lots of features:
-<p> - create new features
+  - create new features
   - specify the features to delete
   - specify the numeric features that should belong to categorical features
   - prepare for numeric and categorical columns names and store them into csv files

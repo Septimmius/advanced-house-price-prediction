@@ -18,3 +18,5 @@
 6) Practise more with Stacking
 7) Include discretixation
 8) Focus more on assumptions checking (normal qq plot, linearity plot...)
+9) Use GitPython to commit and push
+10) Use Datatable instead of pandas

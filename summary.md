@@ -20,3 +20,4 @@
 8) Focus more on assumptions checking (normal qq plot, linearity plot...)
 9) Use GitPython to commit and push
 10) Use Datatable instead of pandas
+11) Do feature selection manually instead of selectKbest (easier to include all preprocessing steps in one pipe)
